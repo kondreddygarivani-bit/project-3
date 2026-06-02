@@ -1,34 +1,33 @@
-# project-3
-Problem Statement
+
 Problem Statement
 
 Build a Machine Learning model that predicts whether a bank customer is likely to leave the bank (churn) based on customer information such as:
 
-Credit score
-Geography
-Gender
-Age
-Balance
-Number of products
-Active status
-Estimated salary
+Credit score,
+Geography,
+Gender,
+Age,
+Balance,
+Number of products,
+Active status,
+Estimated salary.
 
 The goal is to help banks:
 
-  Reduce customer loss
-  Improve customer retention
-  Identify risky customers early
+  Reduce customer loss,
+  Improve customer retention,
+  Identify risky customers early.
 
-  Objective
+  Objective:
 
 Banks lose revenue when customers leave.
 
 This project helps:
 
-  Identify customers likely to churn
-  Improve retention strategies
-  Increase customer satisfaction
-  Reduce business loss
+  Identify customers likely to churn,
+  Improve retention strategies,
+  Increase customer satisfaction,
+  Reduce business loss.
 
   Outcomes
 Outcome 1
